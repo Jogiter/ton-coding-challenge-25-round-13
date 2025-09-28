@@ -15,7 +15,7 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Tolk-1-1-Update-2765274bd2cf80e38633c4c325052c95?source=copy_link
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
+1. 你的 Telegram 用户名 = ？todo
 2. 你的主网 TON 钱包地址 = ？
 
 
